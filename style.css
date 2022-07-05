@@ -76,15 +76,17 @@ section {
     text-align: center;
 }
 .heading-text p {
-    width: 50%;
+    width: 75%;
     text-align: center;
-    margin-left: 25%;
+    margin: auto;
+    margin-bottom: 20px;
+    /* margin-left: %; */
 }
 .recipies-item{
     width: 40%;
     padding: 20px;
     border-radius: 20px;
-    box-shadow: 0 2px 8px 0 rgba(233, 203, 208, 0.375);
+    /* box-shadow: 0 2px 8px 0 rgba(233, 203, 208, 0.375); */
 
 }
 .recipies-item-1{
