@@ -1,0 +1,118 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 40px;
+    line-height: 30px;
+}
+p{
+    margin-bottom: 30px;
+    text-align: justify;
+}
+section {
+    margin-bottom: 120px;
+}
+.flex-box{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin-left: 7%;
+}
+.width-1 {
+   width: 45%;
+}
+.width-2 {
+    width: 55%;
+}
+.half-width a{
+    font-size: 18px;
+    padding: 15px 40px;
+    border-radius: 50px;
+    text-decoration: none;
+    color: white;
+    box-shadow: 0 0 20px 0 orange;
+    background-image: linear-gradient(orange,tomato);
+}
+.half-width img {
+    width: 100%;
+}
+.orange-color{
+    color: orange;
+}
+.hero-section {
+    background-image: url(image/yyay-01.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 20%;
+}
+.hero-text{
+    margin-top: 110px;
+}
+.about-me{
+    background-image: url(image/7.png);
+    background-size: cover;
+}
+.about-me img{
+    width: 60%;
+    padding-top: 40px;
+    padding-left: 60px;
+    text-align: center;
+}
+.about-me h1 {
+    padding-top: 60px;
+}
+.about-me p {
+    padding-bottom: 20px;
+    width: 70%;
+}
+.heading-text{
+    text-align: center;
+}
+.heading-text p {
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+}
+.recipies-item{
+    width: 40%;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 2px 8px 0 grey;
+
+}
+.recipies-item-1{
+    margin-left: 7%;
+    margin-right: 2%;
+}
+.recipies-item-2{
+    margin-right: 7%;
+    margin-left: 2%;
+}
+.recipies-item img {
+    width: 100%;
+}
+.clint-section {
+    width: 80%;
+    margin-left: 8%;
+    border-radius: 30px;
+    padding: 20px;
+    box-shadow: 0 2px 8px 0 gray;
+}
+.clint-section .item {
+    width: 33%;
+    margin-left: 8%;
+}
+.footer {
+    text-align: center;
+    background-color: rgb(255, 224, 166);
+    padding: 50px;
+}
+.footer p {
+    text-align: center;
+    color: black;
+}
+.footer h1{
+    color: black;
+}
