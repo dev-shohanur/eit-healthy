@@ -23,7 +23,7 @@ section {
 .hero-image {
     margin-left: -6%;
     padding-right: 2%;
-    padding-top: 40px;
+    /* padding-top: 40px; */
 }
 .width-1 {
    width: 45%;
